@@ -1,0 +1,2 @@
+Este projeto compreende a Análise exploratória de Dados(EDA) do dataset estruturado relacionado classificação de cogumelos selvagens. O dataset apresenta 22 caracteristicas associados a 2 classificações - venenoso ou comestível -  o dataset estar disponivel em: https://www.kaggle.com/datasets/uciml/mushroom-classification.
+O codigo apresentado tem como objeto criar insights a partir do dataset, mediante analises univariadas e multivariadas de variáveis categóricas.
